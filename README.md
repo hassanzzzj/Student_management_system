@@ -45,6 +45,7 @@ python your_script_name.py  # Replace with the actual filename
  * Click 'Log In'.
    * If successful, the system will either create the database/table or connect to the existing one, and you will see a success notification.
    * If connection fails, check your credentials and ensure the MySQL server is running.
+```
 🖥️ Usage
 Once connected, you can use the buttons on the left panel (Data Entry Frame) to manage student records:
 | Button | Functionality |
